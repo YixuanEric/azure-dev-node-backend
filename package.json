@@ -1,0 +1,14 @@
+{
+  "name": "azure-dev-node-backend",
+  "version": "1.0.0",
+  "description": "yixuan's azure dev js node backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yixuan Wang",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.12.0"
+  }
+}
